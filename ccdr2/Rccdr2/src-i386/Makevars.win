@@ -1,0 +1,1 @@
+PKG_CPPFLAGS = -I"C:\Users\sumin\Documents\data_and_code\daglearn\ccdr2\lib" -I"C:\Users\sumin\Documents\data_and_code\daglearn\lib"
